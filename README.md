@@ -2,7 +2,7 @@
 Multi sentiment analysis based on twitter hashtags using a Naive Bayes Classifier
 
 ## How to run
-1. Clone the repository
+1. Clone the [repository](https://github.com/sashankg/-helladeep)
 2. Run `python predict.py "some text"` inside the directory
 3. The results are the emotions followed by the probability of 
 
